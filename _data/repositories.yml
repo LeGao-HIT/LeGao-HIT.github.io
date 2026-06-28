@@ -1,0 +1,13 @@
+github_users:
+  - LeGao-HIT
+
+repo_description_lines_max: 2
+
+github_repos:
+  - LeGao-HIT/mosfet-rul-prediction-GA-Transformer
+  - LeGao-HIT/Circuit-Life-Prediction
+  - LeGao-HIT/Circuit-Reliability-Prediction-Platform
+  - LeGao-HIT/Electronic-Reliability-Fault-Database
+  - LeGao-HIT/Electronic-Component-Test-Status-Monitoring-System-LabVIEW
+  - LeGao-HIT/piml-power-device-rul-modeling-skill
+  - LeGao-HIT/power-device-reliability-modeling-skill

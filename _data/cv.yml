@@ -1,0 +1,196 @@
+cv:
+  name: Le Gao
+  label: Ph.D. candidate in Integrated Circuit Science and Engineering
+  email: 24b921015@stu.hit.edu.cn
+  location: Harbin, China
+  image: ""
+  summary: Ph.D. candidate at Harbin Institute of Technology working on physics-informed machine learning, reliability prediction, and remaining useful life estimation for power electronic devices.
+
+  social_networks:
+    - network: GitHub
+      username: LeGao-HIT
+    - network: LinkedIn
+      username: le-gao-b40b71336
+    - network: Google Scholar
+      username: ylQiAPoAAAAJ
+
+  sections:
+    Education:
+      - institution: Harbin Institute of Technology
+        location: Harbin, China
+        area: Integrated Circuit Science and Engineering
+        studyType: Ph.D. (Direct M.S.-Ph.D.)
+        start_date: 2022-09
+        end_date: 2027-06
+        score: ""
+
+      - institution: Harbin University of Science and Technology
+        location: Harbin, China
+        studyType: Bachelor
+        start_date: 2018-09
+        end_date: 2022-06
+
+    Research Interests:
+      - name: Physics-informed machine learning for RUL prediction
+        highlights:
+          - Remaining useful life prediction of power electronic devices.
+          - Sparse-data prognostics and physics-guided deep learning.
+          - Uncertainty-aware reliability modeling for electronic components.
+          - Reliability degradation in radiation and harsh environments.
+
+    Technical Skills:
+      - name: Programming and modeling
+        keywords: "Python, LabVIEW, MATLAB, Saber, LaTeX"
+      - name: Experimental systems
+        highlights:
+          - Space-environment irradiation testing.
+          - Power-cycling test bench design and implementation.
+          - Real-time device-health monitoring system development.
+
+    Academic Service:
+      - position: Reviewer
+        company: IEEE Transactions on Power Electronics
+      - position: Reviewer
+        company: IEEE Journal of Emerging and Selected Topics in Power Electronics
+
+    Journal Articles:
+      - title: Prediction method for the remaining useful life of power MOSFETs based on deep learning
+        authors:
+          - Le Gao
+          - C. Liu
+          - F. Wu
+        publisher: IEEE Transactions on Power Electronics
+        releaseDate: 2025
+        url: https://doi.org/10.1109/TPEL.2025.3586684
+      - title: Remaining useful life prediction of power electronic devices with physics-informed deep learning and sparse data
+        authors:
+          - Le Gao
+          - C. Liu
+          - Y. Xiao
+        publisher: IEEE Transactions on Power Electronics
+        releaseDate: 2025
+        url: https://doi.org/10.1109/TPEL.2025.3563853
+      - title: A review of data-driven reliability prediction for power MOSFETs
+        authors:
+          - Le Gao
+          - M. Ren
+          - C. Liu
+        publisher: Microelectronics
+        releaseDate: 2025
+        summary: In Chinese. Vol. 54, no. 4, pp. 644-652.
+      - title: Early-stage remaining useful life prediction for power electronic devices via deep learning with physical guidance
+        authors:
+          - Le Gao
+          - C. Liu
+          - M. Huo
+        publisher: Submitted to IEEE Transactions on Power Electronics
+        releaseDate: 2025
+        summary: Under review.
+      - title: Uncertainty-aware physics-informed deep learning for remaining useful life prediction of power electronic devices
+        authors:
+          - Le Gao
+          - C. Liu
+          - M. Huo
+        releaseDate: 2025
+        summary: Manuscript in preparation.
+
+    Conference Presentations:
+      - title: Uncertainty-Aware Physics-Informed Machine Learning for Remaining Useful Life Prediction of Power Electronic Devices
+        authors:
+          - Le Gao
+        publisher: 2026 Applied Power Electronics Conference and Exposition (APEC)
+        releaseDate: 2026
+        summary: Oral presentation, United States.
+      - title: Remaining Useful Life Prediction of Power Electronic Devices via Physics-Informed Deep Learning in Radiation Environments
+        authors:
+          - Le Gao
+        publisher: 2025 Radiation and its Effects on Components and Systems (RADECS)
+        releaseDate: 2025
+        summary: Oral presentation, Belgium.
+      - title: Remaining Useful Life Prediction of Power Electronic Devices with Physics-Informed Deep Learning under Sparse-Data Conditions
+        authors:
+          - Le Gao
+        publisher: 6th International Conference on Radiation Effects of Electronic Devices
+        releaseDate: 2025
+        summary: Oral presentation.
+      - title: Machine-Learning-Based Radiation Reliability Degradation Modeling of SiC MOSFETs
+        authors:
+          - Le Gao
+        publisher: 6th China Radiation Physics Academic Exchange Conference
+        releaseDate: 2024
+        summary: Oral presentation.
+
+    Patents and Software Copyrights:
+      - title: Reliability Prediction System for Electronic Devices
+        authors:
+          - Le Gao
+        releaseDate: 2024
+        summary: ZL202410400889.6, granted.
+      - title: Reliability Prediction Method for Power MOSFETs
+        authors:
+          - Le Gao
+        releaseDate: 2024
+        summary: ZL202410177294.9, granted.
+      - title: Reliability Prediction Method for Schottky Barrier Diodes
+        authors:
+          - Le Gao
+        summary: CN202311312876.5, pending.
+      - title: Modeling Method for Power MOSFET Reliability
+        authors:
+          - Le Gao
+        summary: CN202311317217.0, pending.
+      - title: Power-Cycling Test System and Method for Electronic Components
+        authors:
+          - Le Gao
+        summary: CN202410829095.1, pending.
+      - title: Reliability-Prediction Software for Electronic Components
+        authors:
+          - Le Gao
+        releaseDate: 2024
+        summary: Software copyright CR No. 2024SR0241261.
+      - title: Power-Cycling Test System for Electronic Components
+        authors:
+          - Le Gao
+        releaseDate: 2024
+        summary: Software copyright CR No. 2024SR0684147.
+
+    Projects:
+      - name: Reliability Assurance for Astronautic Electronic Information Systems
+        summary: Defense Basic Research project; key contributor.
+        highlights:
+          - Conducted experiments using ground-based space-environment simulators.
+      - name: Reliability Prognostics and Optimization for Discrete Semiconductor Devices
+        summary: Equipment Pre-Research project; key contributor.
+        highlights:
+          - Performed reliability-parameter optimization and lifetime prediction.
+      - name: Failure Mechanisms and Lifetime Prediction Methods for Ultra-Wide-Bandgap Devices
+        summary: NSFC project; key contributor.
+        highlights:
+          - Analyzed device failure mechanisms and carried out early-life lifetime modeling and uncertainty analysis.
+      - name: Modeling and Accuracy Verification of Operational-Amplifier Electrical Characteristics
+        summary: Equipment Pre-Research project; key contributor.
+        highlights:
+          - Built simulation models in Saber.
+
+    Awards:
+      - title: China National Scholarship (Doctoral)
+      - title: Special Scholarship
+      - title: Second-Class Scholarship
+      - title: Outstanding Student Leader
+        summary: Awarded twice.
+      - title: Outstanding Youth League Member
+      - title: Heilongjiang Provincial Merit Student
+
+    Leadership:
+      - company: Harbin Institute of Technology
+        position: Chair, Graduate Student Union
+        start_date: 2022-09
+        end_date: 2023-06
+      - company: Harbin Institute of Technology
+        position: Secretary, Integrated Circuit Graduate Party Branch
+        start_date: 2025-10
+        end_date: Present
+      - company: Harbin Institute of Technology
+        position: Delegate, 15th-16th HIT Graduate Student Congress
+        start_date: 2022-09
+        end_date: 2023-06
