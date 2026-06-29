@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Le Gao(高乐)
+title: Le Gao (高乐)
 first_name: Le
 middle_name:
 last_name: Gao
@@ -26,17 +26,6 @@ back_to_top: true
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
-
-repo_theme_light: default
-repo_theme_dark: dark
-repo_trophies:
-  enabled: true
-  theme_light: flat
-  theme_dark: gitdimmed
-
-external_services:
-  github_readme_stats_url: https://github-readme-stats.vercel.app
-  github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
 al_folio:
   api_version: 1
