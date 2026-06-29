@@ -10,6 +10,7 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-sitemap'
+    gem 'jekyll-scholar'
     gem 'jekyll-socials'
     gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
 end

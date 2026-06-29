@@ -101,6 +101,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-sitemap
+  - jekyll-scholar
   - jekyll-socials
   - jekyll-terser
   - al_folio_core
