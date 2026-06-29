@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://legao-hit.github.io/sitemap.xml
