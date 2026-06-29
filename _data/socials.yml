@@ -5,6 +5,10 @@
 email: 24b921015@stu.hit.edu.cn # your email address
 github_username: LeGao-HIT
 linkedin_username: le-gao-b40b71336
+researchgate:
+  logo: "ai ai-researchgate"
+  title: "ResearchGate"
+  url: "https://www.researchgate.net/profile/Le-Gao-22?ev=hdr_xprf"
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: ylQiAPoAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
