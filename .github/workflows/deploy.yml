@@ -33,6 +33,11 @@ jobs:
       - name: Install Bundler dependencies
         run: bundle install --jobs 4 --retry 3
 
+      - name: Cache repository cards
+        run: python scripts/cache_repository_cards.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
       - name: Setup Pages
         uses: actions/configure-pages@v6
 
