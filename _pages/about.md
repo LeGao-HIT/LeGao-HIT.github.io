@@ -12,6 +12,10 @@ profile:
 
 social: true # includes social icons at the bottom of the page
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LeGao-HIT&label=Profile%20views&color=0e75b6&style=flat" alt="LeGao-HIT" />
+</p>
+
 I am a Ph.D. candidate at Harbin Institute of Technology. My research focuses on reliability modeling, intelligent prognostics, and health management for power electronic devices, circuits, and systems.
 
 I am a visiting Ph.D. student at Politecnico di Milano, working on reliability modeling under the guidance of [Prof. Enrico Zio](https://www.energia.polimi.it/en/people/zio-enrico-2/).
