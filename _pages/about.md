@@ -21,12 +21,6 @@ My broader interests include power electronics, physics-informed AI, embedded de
 
 Research-related code, tools, and project materials are maintained on [GitHub](https://github.com/LeGao-HIT).
 
-<div style="display: inline-flex; align-items: center; gap: 0.45rem; margin: 0.25rem 0 1rem; padding: 0.35rem 0.65rem; border: 1px solid var(--global-divider-color); border-radius: 6px; color: var(--global-text-color-light); font-size: 0.875rem; line-height: 1.2;">
-  <span style="font-weight: 500;">Site visits</span>
-  <span id="busuanzi_value_site_pv" style="color: var(--global-text-color); font-weight: 600;">--</span>
-</div>
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
 ---
 
 ### Academic Services
