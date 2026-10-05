@@ -29,3 +29,4 @@ Research-related code, tools, and project materials are maintained on [GitHub](h
 
 * IEEE Transactions on Power Electronics
 * IEEE Journal of Emerging and Selected Topics in Power Electronics
+* IEEE Transactions on Industry Applications
